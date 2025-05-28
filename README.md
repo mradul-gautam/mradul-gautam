@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mradul Gautam
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently building AI based product to bring revolution in the management space.
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me mradul_1991@yahoo.co.in
 
